@@ -13,10 +13,10 @@ idna==3.3
 ifaddr==0.1.7
 incremental==21.3.0
 kiwisolver==1.3.2
-lxml==4.6.3
+lxml==4.9.1
 matplotlib==3.4.3
-numpy==1.21.3
-Pillow==8.4.0
+numpy==1.22.2
+Pillow==9.2.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycodestyle==2.8.0
@@ -29,10 +29,11 @@ requests==2.26.0
 service-identity==21.1.0
 six==1.16.0
 toml==0.10.2
-Twisted==21.7.0
+Twisted==22.10.0rc1
 twisted-iocpsupport==1.0.2
 typing-extensions==3.10.0.2
 upnpclient==1.0.3
 urllib3==1.26.7
 watchdog==2.1.6
 zope.interface==5.4.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
