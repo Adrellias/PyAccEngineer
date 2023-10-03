@@ -33,6 +33,6 @@ Twisted==21.7.0
 twisted-iocpsupport==1.0.2
 typing-extensions==3.10.0.2
 upnpclient==1.0.3
-urllib3==1.26.7
+urllib3==1.26.17
 watchdog==2.1.6
 zope.interface==5.4.0
