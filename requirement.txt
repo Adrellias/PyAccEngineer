@@ -5,7 +5,7 @@ certifi==2021.10.8
 cffi==1.15.0
 charset-normalizer==2.0.7
 constantly==15.1.0
-cryptography==35.0.0
+cryptography==41.0.5
 cycler==0.11.0
 dnspython==2.1.0
 hyperlink==21.0.0
@@ -29,7 +29,7 @@ requests==2.26.0
 service-identity==21.1.0
 six==1.16.0
 toml==0.10.2
-Twisted==21.7.0
+Twisted==23.10.0rc1
 twisted-iocpsupport==1.0.2
 typing-extensions==3.10.0.2
 upnpclient==1.0.3
