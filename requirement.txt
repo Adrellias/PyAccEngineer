@@ -36,3 +36,4 @@ upnpclient==1.0.3
 urllib3==1.26.7
 watchdog==2.1.6
 zope.interface==5.4.0
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
